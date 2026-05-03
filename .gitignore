@@ -1,0 +1,13 @@
+# Client-specific files — never commit
+telemadrid-context.md
+*-context.md
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temp files
+*.tmp
+*.bak
+Nuevo documento de texto.txt
